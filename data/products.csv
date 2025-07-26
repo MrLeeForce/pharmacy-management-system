@@ -1,0 +1,4 @@
+name,strength,company,salt,uses,type,batch_id,pack_price,packs_quantity,units_per_pack,expiry_date
+Paracetamol,500mg,Getz Pharma,paracetamol,pain_killer,tablet,BATCH001,1500.0,5,500,2025-12-31
+Panadol,500mg,GSK,paracetamol,pain_fever,tablet,BATCH002,1800.0,3,500,2024-12-31
+Augmentin,625mg,GSK,amoxicillin,antibiotic,tablet,BATCH003,2500.0,2,250,2024-06-30
